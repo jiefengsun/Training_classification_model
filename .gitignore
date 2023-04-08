@@ -1,0 +1,23 @@
+.log
+.jpg
+.mp4
+.mov
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Jupyter Notebook metadata
+*.ipynb_meta
+
+# Ignore Jupyter Notebook execution logs
+*.ipynb_logs
+/runs
