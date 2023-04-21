@@ -21,3 +21,7 @@ venv/
 # Ignore Jupyter Notebook execution logs
 *.ipynb_logs
 
+tensorboard/
+data/
+models/
+
