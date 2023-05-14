@@ -1,0 +1,3 @@
+corridor
+hall
+lab_floor
